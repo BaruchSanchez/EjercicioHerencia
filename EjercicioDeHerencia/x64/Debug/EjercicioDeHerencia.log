@@ -1,0 +1,8 @@
+﻿  EjercicioDeHerencia.cpp
+C:\Users\sanch\Documents\Topicos Avanzados de Programacion\EjercicioDeHerencia\EjercicioDeHerencia\Circulo.h(21,25): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "EjercicioDeHerencia.cpp")
+  
+C:\Users\sanch\Documents\Topicos Avanzados de Programacion\EjercicioDeHerencia\EjercicioDeHerencia\Circulo.h(26,23): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "EjercicioDeHerencia.cpp")
+  
+  EjercicioDeHerencia.vcxproj -> C:\Users\sanch\Documents\Topicos Avanzados de Programacion\EjercicioDeHerencia\x64\Debug\EjercicioDeHerencia.exe
