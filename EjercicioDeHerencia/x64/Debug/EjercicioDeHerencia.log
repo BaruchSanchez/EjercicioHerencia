@@ -1,0 +1,15 @@
+﻿  EjercicioDeHerencia.cpp
+C:\Users\sanch\OneDrive\Documentos\Topicos Avanzados de Programacion\EjercicioDeHerencia\EjercicioDeHerencia\Circulo.h(22,25): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "EjercicioDeHerencia.cpp")
+  
+C:\Users\sanch\OneDrive\Documentos\Topicos Avanzados de Programacion\EjercicioDeHerencia\EjercicioDeHerencia\Circulo.h(28,23): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "EjercicioDeHerencia.cpp")
+  
+C:\Users\sanch\OneDrive\Documentos\Topicos Avanzados de Programacion\EjercicioDeHerencia\EjercicioDeHerencia\Cubo.h(11,32): error C2661: 'Cuadrado::Cuadrado': ninguna función sobrecargada acepta 2 argumentos
+  (compilando archivo de origen "EjercicioDeHerencia.cpp")
+      C:\Users\sanch\OneDrive\Documentos\Topicos Avanzados de Programacion\EjercicioDeHerencia\EjercicioDeHerencia\Cubo.h(11,32):
+      al hacer coincidir la lista de argumentos '(float, const char [5])'
+  
+C:\Users\sanch\OneDrive\Documentos\Topicos Avanzados de Programacion\EjercicioDeHerencia\EjercicioDeHerencia\FiguraNLados.h(28,23): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "EjercicioDeHerencia.cpp")
+  
